@@ -17,3 +17,4 @@ Agencia de Publicidad
  <gap:splash src="img/SplashM1.PNG" width="320" height="480" />
  <gap:splash src="img/SplashM2.PNG" width="640" height="960" />
  <gap:splash src="img/SplashM3.PNG" width="768" height="1024" />
+ </widget>
