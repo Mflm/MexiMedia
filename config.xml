@@ -16,7 +16,7 @@ Agencia de Publicidad
  </author>
 
 
-    <icon src="img/ico.png" />
+    <icon src="icon.png" />
  <gap:splash src="img/SplashM1.PNG" />
  <gap:splash src="img/SplashM1.PNG" width="320" height="480" />
  <gap:splash src="img/SplashM2.PNG" width="640" height="960" />
